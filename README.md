@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Laurent-Niedermeyer
-- 👀 I’m interested in Elan Formation
+- 👋 Hi, I’m @Laurent
+- 👀 I’m interested in discovering new things
 - 🌱 I’m currently learning html css php javascript
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me : email me
+- 📫 How to reach me : email me at laurent.nie67@gmail.com
